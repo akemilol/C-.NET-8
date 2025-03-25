@@ -42,7 +42,5 @@ public class Program
         Console.WriteLine($"O valor da divisão é {divCalculator}");
         Console.WriteLine($"O valor do resto da divisão é {modelCalculator}");
 
-
-
     }
 }
