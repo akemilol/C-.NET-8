@@ -15,6 +15,6 @@ Este repositório contém anotações, códigos e exemplos práticos das minhas 
 | aula06 | Estrutura Condicional | Uso do `if` e `else` para decisões no código. |
 | aula07 | Operadores de Atribuição | Operadores como `+=`, `-=`, `*=`, etc. |
 | aula08 | Operadores Relacionais | Comparações entre valores (`>`, `<`, `==`, `!=`, etc). |
-| aula09 | Operadores Lógicos | Operadores `&&`, `||`, `!` e suas aplicações. |
+| aula09 | Operadores Lógicos | Operadores `&&`, `\|\|`, `!` e suas aplicações. |
 | aula10 | Calculadora com If, Else If, Else e While | Versão mais completa da calculadora com laço de repetição e múltiplas condições. |
 
