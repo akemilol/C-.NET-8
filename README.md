@@ -1,6 +1,6 @@
 # 📚 Estudos em C# com .NET 8
 
-Este repositório contém anotações, códigos e exemplos práticos das minhas aulas e estudos de C# utilizando a plataforma .NET 8. Cada aula é focada em um conceito específico da linguagem, ideal para iniciantes que desejam aprender de forma progressiva e prática.
+Este repositório contém anotações, códigos e exemplos práticos das minhas aulas e estudos de C# utilizando a plataforma .NET 8. Cada aula é focada em um conceito específico da linguagem.
 
 ## 🧠 Conteúdo das Aulas
 
