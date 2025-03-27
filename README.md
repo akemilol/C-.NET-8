@@ -21,3 +21,6 @@ Este repositório contém anotações, códigos e exemplos práticos das minhas 
 | aula12 | While                                            | Estrutura de repetição `while` e exemplos de uso.                         |
 | aula13 | Do/While                                         | Diferenças entre `while` e `do/while`, com exemplos práticos.            |
 | aula14 | For Loop                                         | Estrutura `for` para repetições com contadores.                          |
+| aula15 | Foreach                                          | Uso do `foreach` para iteração simplificada em coleções.                 |
+| aula16 | Arrays                                           | Declaração, inicialização e manipulação de arrays.                       |
+| aula17 | List (Listas)                                    | Utilização da classe `List<T>`, métodos e exemplos práticos.             |
